@@ -1,0 +1,7 @@
+http.server
+requests==2.31.0
+socketserver
+threading
+time
+tkinter
+webbrowser
